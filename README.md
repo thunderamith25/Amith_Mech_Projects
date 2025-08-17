@@ -61,7 +61,8 @@ The tasks includes to design a robotic arm gripper using the Fusion 360 Software
 ![9pkdv4](https://github.com/user-attachments/assets/564ae23a-a2c3-421b-bc4b-54b2a3cfc41e)
 
 # 3) Computational Fluid Dynamics
-This task involves performing Computational fluid behaviour on the Airfoil we designed in the previous task. The environment which is used is air. The input velocity hitting the camber line is 50 m/s and the output is 0m/s. The airfoil chosen is NACA2414. 25 iterations have been successfully performed on the airfoil
+This task involves performing Computational fluid behaviour on the Airfoil we designed in the previous task. The environment which is used is air. The input velocity hitting the camber line is 50 m/s and the output is 0m/s. The airfoil chosen is NACA2414. 25 iterations have been successfully performed on the airfoil.
+<img width="1920" height="1080" alt="Screenshot 2024-10-30 123824" src="https://github.com/user-attachments/assets/12b07011-b506-4ff2-b96a-32b21f7cf36c" />
 ![Screenshot 2025-04-02 133235](https://github.com/user-attachments/assets/6ea6ca27-6ab3-4498-96e6-36abbee99484)
 ![Screenshot 2025-04-02 134414](https://github.com/user-attachments/assets/43d2c7fc-bd16-49fd-be40-305b081d7eec)
 
