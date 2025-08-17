@@ -54,6 +54,21 @@ This model is a created replica using the blueprints provided. The technical dif
 
 ## 6) Conclusion
 The Airbus A330 CAD model demonstrates the integration of aerodynamic theory, airfoil selection, and structural considerations in a commercial aircraft design. The use of NASA SC(2) airfoils ensures aerodynamic efficiency, while symmetrical NACA profiles for the stabilizers provide stability and control.
-   
+
+
+# 2) Assembly & Simulation
+The tasks includes to design a robotic arm gripper using the Fusion 360 Software. The design parameters are in mm. This is a **Pneumatic Gripper** which is used in many industry scale applications.
+![9pkdv4](https://github.com/user-attachments/assets/564ae23a-a2c3-421b-bc4b-54b2a3cfc41e)
+
+# 3) Computational Fluid Dynamics
+This task involves performing Computational fluid behaviour on the Airfoil we designed in the previous task. The environment which is used is air. The input velocity hitting the camber line is 50 m/s and the output is 0m/s. The airfoil chosen is NACA2414. 25 iterations have been successfully performed on the airfoil
+![Screenshot 2025-04-02 133235](https://github.com/user-attachments/assets/6ea6ca27-6ab3-4498-96e6-36abbee99484)
+![Screenshot 2025-04-02 134414](https://github.com/user-attachments/assets/43d2c7fc-bd16-49fd-be40-305b081d7eec)
+
+# 4) Animation and rendering. 
+The tasks reqires us to design a **Lego Man** on fusion 360, assemble it and then render it into new environments. The 2nd task includes here is that we conduct a motion study on the joints and tweak it to make the **Lego Man** perform the movents of the joints of Lego man.
+![9pke0m](https://github.com/user-attachments/assets/0bc487fb-8bb2-4150-ab2c-07894f211fe7)
+![Screenshot 2025-04-02 141155](https://github.com/user-attachments/assets/2a4d4442-9b32-4835-9591-774c86609361)
+
 
 
