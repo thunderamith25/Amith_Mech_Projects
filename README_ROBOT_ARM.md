@@ -8,7 +8,7 @@ Creating this beast wasn’t just about drawing lines—it was about crafting a 
 
 1) Concept Sketching ✏️ – Initial sketches to define arm proportions, reach, and base stability.
 
-2) 3D Modeling in Fusion 360 – Built component by component (base, links, joints, and gripper) 
+2) 3D Modeling in Fusion 360 – Built component by component (base, links, joints, toolholder) 
 
 3) Assembly 🔗 – Brought together multiple parts into a fully articulated robotic structure.
 
