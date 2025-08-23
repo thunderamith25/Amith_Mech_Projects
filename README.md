@@ -4,6 +4,13 @@ This shows a detailed projects created and performed by me
 # 1) Airbus a330 Model Design
 This report presents the design and modeling of an Airbus A330 commercial aircraft using Autodesk Fusion 360. The objective was to create a parametric CAD model of the aircraft geometry with emphasis on realistic aerodynamic features, structural considerations, and overall aesthetic resemblance to the Airbus A330.
 
+## 1) A Brief Note.
+The Airbus A330 is a wide-body airliner developed and produced by Airbus. Airbus began developing larger A300 derivatives in the mid–1970s, giving rise to the A330 twinjet as well as the Airbus A340 quadjet, and launched both designs along with their first orders in June 1987. The A330-300, the first variant, took its maiden flight in November 1992 and entered service with Air Inter in January 1994.
+
+The first specifications for the TA9 and TA11, aircraft that could accommodate 410 passengers in a one-class layout, emerged in 1982.[13] They showed a large underfloor cargo area that could hold five cargo pallets or sixteen LD3 cargo containers in the forward, and four pallets or fourteen LD3s in the aft hold—double the capacity of the Lockheed L-1011 TriStar or DC-10, and 8.46 metres (27.8 ft) longer than the Airbus A300.
+
+In preparation for the production of the A330 and the A340, Airbus's partners invested heavily in new facilities. In south-western England, BAe made a £7 million investment in a three-storey technical centre with 15,000 m2 (161,000 sq ft) of floor area at Filton.[26] In north Wales, BAe also spent £5 million on a new production line at its Broughton wing production plant.
+
 ## 1) Design Objectives 
 
 1) Develop a 3D CAD model of an Airbus A330 using Autodesk Fusion 360.
