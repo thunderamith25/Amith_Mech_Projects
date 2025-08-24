@@ -9,7 +9,7 @@ The Airbus A330 is a wide-body airliner developed and produced by Airbus. Airbus
 
 The first specifications for the TA9 and TA11, aircraft that could accommodate 410 passengers in a one-class layout, emerged in 1982.[13] They showed a large underfloor cargo area that could hold five cargo pallets or sixteen LD3 cargo containers in the forward, and four pallets or fourteen LD3s in the aft hold—double the capacity of the Lockheed L-1011 TriStar or DC-10, and 8.46 metres (27.8 ft) longer than the Airbus A300.
 
-In preparation for the production of the A330 and the A340, Airbus's partners invested heavily in new facilities. In south-western England, BAe made a £7 million investment in a three-storey technical centre with 15,000 m2 (161,000 sq ft) of floor area at Filton.[26] In north Wales, BAe also spent £5 million on a new production line at its Broughton wing production plant.
+In preparation for the production of the A330 and the A340, Airbus's partners invested heavily in new facilities. In south-western England, BAe made a £7 million investment in a three-storey technical centre with 15,000 m2 (161,000 sq ft) of floor area at Filton. In north Wales, BAe also spent £5 million on a new production line at its Broughton wing production plant.
 
 ## 1) Design Objectives 
 
