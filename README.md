@@ -17,7 +17,7 @@ In preparation for the production of the A330 and the A340, Airbus's partners in
 
 2) Select and apply suitable airfoils for different wing sections.
 
-3)Ensure realistic geometry for the empennage (horizontal and vertical stabilizers).
+3) Ensure realistic geometry for the empennage (horizontal and vertical stabilizers).
 
 4) Balance aerodynamic performance with manufacturability and structural needs.
 
