@@ -14,8 +14,11 @@ In preparation for the production of the A330 and the A340, Airbus's partners in
 ## 1) Design Objectives 
 
 1) Develop a 3D CAD model of an Airbus A330 using Autodesk Fusion 360.
+
 2) Select and apply suitable airfoils for different wing sections.
+
 3)Ensure realistic geometry for the empennage (horizontal and vertical stabilizers).
+
 4) Balance aerodynamic performance with manufacturability and structural needs.
 
 ## 2) CAD Modeling Approach
